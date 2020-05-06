@@ -172,7 +172,7 @@ gem install travis  --user-install  # Travis CI 官方 cli 工具
 
 
 ## 关于Travis CI
-github默认使用的是Travis CI。
+github默认使用的是Travis CI，可以在Travis CI看到github上我们自己项目的构建情况。
 
 >Travis CI 提供的是持续集成服务（Continuous Integration，简称 CI）。它绑定 Github 上面的项目，只要有新的代码，就会自动抓取。然后，提供一个运行环境，执行测试，完成构建，还能部署到服务器。
 
@@ -184,3 +184,6 @@ github默认使用的是Travis CI。
 ## 更多资料
 
 [ GitHub Pages](https://help.github.com/en/github/working-with-github-pages)
+
+
+最后编辑：2020-05-06
