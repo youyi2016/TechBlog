@@ -57,6 +57,11 @@ module.exports = [{
 				text: 'Typescript',
 				link: '/feengineer/'
 			},
+			{
+				text: '工程化系列',
+				link: '/前端工程/工程化系列/'
+			}
+		
 		]
 	},
 	{
@@ -85,7 +90,6 @@ module.exports = [{
 			},
 			{
 				text: '常见前端问题',
-
 				items: [{
 						text: 'CSS',
 						link: '/FEProblem/CSS/',
