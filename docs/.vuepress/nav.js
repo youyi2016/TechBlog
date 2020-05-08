@@ -36,8 +36,10 @@ module.exports = [{
 				text: 'React',
 				link: '/React原理/'
 			},
-			
-
+      {
+				text: 'Node',
+				link: '/Node/'
+			}
 		]
 	},
 	{
@@ -64,15 +66,20 @@ module.exports = [{
 	{
 		text: 'BE',
 	  items: [{
-			text: 'Node',
-			link: '/Node/'
-		},]
+			text: 'Nginx',
+			link: '/Nginx/'
+		},
+		{
+			text: 'Docker',
+			link: '/Docker/'
+		}, 
+	]
 	},
 	{
-		text: 'DevOps',
+		text: '练习与实践',
 		items: [{
-			text: 'Docker',
-			link: '/feengineer/'
+			text: '日常练习',
+			link: '/习题集合/'
 		}, ]
 	},
 	{
