@@ -46,15 +46,15 @@ module.exports = [{
 		text: 'FE工程化',
 		items: [{
 				text: '构建工具',
-				link: '/feengineer/'
+				link: '/构建工具/'
 			},
 			{
 				text: '版本控制',
-				link: '/feengineer/'
+				link: '/版本控制/'
 			},
 			{
 				text: 'Typescript',
-				link: '/feengineer/'
+				link: '/TS/'
 			},
 			{
 				text: '工程化系列',
