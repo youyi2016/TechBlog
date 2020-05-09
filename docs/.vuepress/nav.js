@@ -46,7 +46,7 @@ module.exports = [{
 		text: 'FE工程化',
 		items: [{
 				text: '构建工具',
-				link: '/构建工具/'
+				link: '/前端工程/构建工具/'
 			},
 			{
 				text: '版本控制',
