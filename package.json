@@ -9,6 +9,6 @@
     "watch": "webpack --watch",
     "start": "webpack-dev-server --open",
     "docs:dev": "vuepress dev docs",
-    "dev": "vuepress build docs"
+    "docs:build": "vuepress build docs"
   }
 }
